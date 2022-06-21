@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/erasmus_classes/mobile_developing/K20-KotlinFirebaseInsta/app/src/main/res/layout/activity_feed.xml" value="0.15092592592592594" />
+        <entry key="..\:/erasmus_classes/mobile_developing/K20-KotlinFirebaseInsta/app/src/main/res/layout/activity_main.xml" value="0.2875905797101449" />
+        <entry key="..\:/erasmus_classes/mobile_developing/K20-KotlinFirebaseInsta/app/src/main/res/layout/activity_upload.xml" value="0.15092592592592594" />
+        <entry key="..\:/erasmus_classes/mobile_developing/K20-KotlinFirebaseInsta/app/src/main/res/menu/options_menu.xml" value="0.3489583333333333" />
+        <entry key="..\:/erasmus_classes/mobile_developing/TrackMyRun/app/src/main/res/layout/activity_feed.xml" value="0.215625" />
+        <entry key="..\:/erasmus_classes/mobile_developing/TrackMyRun/app/src/main/res/layout/activity_upload.xml" value="0.28306159420289856" />
+        <entry key="..\:/erasmus_classes/mobile_developing/TrackMyRun/app/src/main/res/layout/recycler_view_row.xml" value="0.5" />
+        <entry key="..\:/erasmus_classes/mobile_developing/TrackMyRun/app/src/main/res/menu/options_menu.xml" value="0.3489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
